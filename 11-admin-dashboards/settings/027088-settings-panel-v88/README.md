@@ -1,0 +1,6 @@
+# Settings Panel V88
+
+**Template #27088** | **Type:** Dashboard | **Theme:** Bold Red
+
+---
+**Jayvik Labs - Jaydip**

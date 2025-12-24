@@ -1,0 +1,6 @@
+# Analytics Dashboard V2740
+
+**Template #22740** | **Type:** Dashboard | **Theme:** Bright Cyan
+
+---
+**Jayvik Labs - Jaydip**

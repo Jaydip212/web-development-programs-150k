@@ -1,0 +1,6 @@
+# Category Page V443
+
+**Template #13443** | **Type:** E-Commerce | **Theme:** Premium Purple
+
+---
+**Jayvik Labs - Jaydip**

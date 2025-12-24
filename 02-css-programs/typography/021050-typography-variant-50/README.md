@@ -1,0 +1,8 @@
+# Typography Variant 50
+
+**Program #21050** | **Theme:** Gold | **By:** Jayvik Labs - Jaydip
+
+Modern web development example with premium design.
+
+---
+**Jayvik Labs - Jaydip**

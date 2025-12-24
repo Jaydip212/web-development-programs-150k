@@ -1,0 +1,6 @@
+# Category Page V2890
+
+**Template #15890** | **Type:** E-Commerce | **Theme:** Bright Cyan
+
+---
+**Jayvik Labs - Jaydip**

@@ -1,0 +1,6 @@
+# Product Filter V2238
+
+**Template #19238** | **Type:** E-Commerce | **Theme:** Bold Red
+
+---
+**Jayvik Labs - Jaydip**

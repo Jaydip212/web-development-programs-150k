@@ -1,0 +1,8 @@
+# Calculator Variant 1552
+
+**Program #26552** | **Theme:** Ocean Blue | **By:** Jayvik Labs - Jaydip
+
+Modern web development example with premium design.
+
+---
+**Jayvik Labs - Jaydip**

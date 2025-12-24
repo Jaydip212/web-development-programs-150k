@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real-Time Collaboration - Jayvik Labs</title>
+    <link rel="manifest" href="manifest.json">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .hero {
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            color: white;
+        }
+        h1 {
+            font-size: 64px;
+            margin-bottom: 20px;
+            animation: slideUp 0.8s ease-out;
+        }
+        @keyframes slideUp {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        p {
+            font-size: 24px;
+            opacity: 0.9;
+        }
+        .cta-button {
+            margin-top: 30px;
+            padding: 18px 40px;
+            background: white;
+            color: #667eea;
+            border: none;
+            border-radius: 50px;
+            font-size: 18px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+        .cta-button:hover {
+            transform: translateY(-5px);
+        }
+        footer {
+            position: absolute;
+            bottom: 20px;
+            width: 100%;
+            text-align: center;
+            color: rgba(255, 255, 255, 0.7);
+            font-size: 14px;
+        }
+        footer strong { color: white; }
+    </style>
+</head>
+<body>
+    <div class="hero">
+        <div>
+            <h1>Real-Time Collaboration</h1>
+            <p>Live collaborative editing</p>
+            <button class="cta-button">Get Started</button>
+        </div>
+    </div>
+    <footer>
+        <p>Created by <strong>Jayvik Labs - Jaydip</strong></p>
+    </footer>
+</body>
+</html>

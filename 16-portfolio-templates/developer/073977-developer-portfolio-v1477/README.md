@@ -1,0 +1,6 @@
+# Developer Portfolio V1477
+
+**Template #73977** | **Type:** Portfolio | **Theme:** Professional Teal
+
+---
+**Jayvik Labs - Jaydip**

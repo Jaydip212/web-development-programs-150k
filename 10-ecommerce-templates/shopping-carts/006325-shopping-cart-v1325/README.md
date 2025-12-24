@@ -1,0 +1,6 @@
+# Shopping Cart V1325
+
+**Template #6325** | **Type:** E-Commerce | **Theme:** Vibrant Orange
+
+---
+**Jayvik Labs - Jaydip**

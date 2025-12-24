@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Blog - Jayvik Labs</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Georgia', serif;
+            background: #f5f5f5;
+            line-height: 1.6;
+        }
+
+        /* Header */
+        header {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        header h1 {
+            font-size: 42px;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        header p {
+            font-size: 18px;
+            opacity: 0.9;
+        }
+
+        /* Navigation */
+        nav {
+            background: white;
+            padding: 15px 0;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            sticky: top;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #333;
+            font-weight: 600;
+            transition: color 0.3s;
+        }
+
+        nav a:hover {
+            color: #2a5298;
+        }
+
+        /* Container */
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        /* Blog Post */
+        article {
+            background: white;
+            border-radius: 10px;
+            padding: 40px;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        article h2 {
+            color: #1e3c72;
+            font-size: 32px;
+            margin-bottom: 15px;
+        }
+
+        .post-meta {
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #f0f0f0;
+        }
+
+        .post-meta span {
+            margin-right: 20px;
+        }
+
+        article p {
+            color: #444;
+            font-size: 18px;
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+
+        article h3 {
+            color: #2a5298;
+            font-size: 24px;
+            margin: 25px 0 15px;
+        }
+
+        article ul {
+            margin-left: 30px;
+            margin-bottom: 15px;
+        }
+
+        article li {
+            margin-bottom: 10px;
+            color: #555;
+        }
+
+        .read-more {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 12px 30px;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 25px;
+            transition: transform 0.3s;
+        }
+
+        .read-more:hover {
+            transform: translateY(-3px);
+        }
+
+        /* Sidebar */
+        aside {
+            background: white;
+            border-radius: 10px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        aside h3 {
+            color: #1e3c72;
+            margin-bottom: 20px;
+            font-size: 22px;
+        }
+
+        .category-list {
+            list-style: none;
+        }
+
+        .category-list li {
+            padding: 10px 0;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .category-list a {
+            text-decoration: none;
+            color: #555;
+            transition: color 0.3s;
+        }
+
+        .category-list a:hover {
+            color: #2a5298;
+        }
+
+        /* Footer */
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 30px 20px;
+            margin-top: 50px;
+        }
+
+        footer p {
+            margin-bottom: 10px;
+        }
+
+        footer strong {
+            color: #2a5298;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Header -->
+    <header>
+        <h1>🚀 Tech Insights Blog</h1>
+        <p>Exploring the World of Technology and Innovation</p>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#articles">Articles</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container">
+        <!-- Blog Post 1 -->
+        <article>
+            <h2>The Future of Artificial Intelligence in 2024</h2>
+            <div class="post-meta">
+                <span>📅 December 24, 2025</span>
+                <span>✍️ By Jaydip Jadhav</span>
+                <span>🏷️ AI, Technology</span>
+            </div>
+
+            <p>
+                Artificial Intelligence is transforming every aspect of our lives, from how we work to how we interact
+                with technology.
+                In this comprehensive guide, we'll explore the latest trends and innovations shaping the AI landscape.
+            </p>
+
+            <h3>Key Developments in AI</h3>
+            <ul>
+                <li><strong>Large Language Models:</strong> Advanced models like GPT-4 and beyond are revolutionizing
+                    natural language processing</li>
+                <li><strong>Computer Vision:</strong> AI-powered image recognition is becoming more accurate and
+                    accessible</li>
+                <li><strong>Autonomous Systems:</strong> Self-driving cars and robotics are making significant progress
+                </li>
+                <li><strong>AI Ethics:</strong> Growing focus on responsible AI development and deployment</li>
+            </ul>
+
+            <p>
+                The integration of AI into everyday applications is accelerating at an unprecedented pace. From virtual
+                assistants
+                to predictive analytics, AI is becoming an indispensable tool for businesses and individuals alike.
+            </p>
+
+            <a href="#" class="read-more">Read Full Article →</a>
+        </article>
+
+        <!-- Blog Post 2 -->
+        <article>
+            <h2>Web Development Trends You Can't Ignore</h2>
+            <div class="post-meta">
+                <span>📅 December 20, 2025</span>
+                <span>✍️ By Jaydip Jadhav</span>
+                <span>🏷️ Web Development</span>
+            </div>
+
+            <p>
+                The web development landscape is constantly evolving. Staying updated with the latest trends is crucial
+                for developers who want to build modern, efficient, and user-friendly applications.
+            </p>
+
+            <h3>Top Trends for 2024</h3>
+            <ul>
+                <li><strong>Progressive Web Apps (PWAs):</strong> Bridging the gap between web and mobile applications
+                </li>
+                <li><strong>Jamstack Architecture:</strong> Fast, secure, and scalable web development approach</li>
+                <li><strong>AI-Powered Development:</strong> Using AI tools to accelerate coding and debugging</li>
+                <li><strong>Web3 Integration:</strong> Decentralized applications and blockchain technology</li>
+            </ul>
+
+            <a href="#" class="read-more">Read Full Article →</a>
+        </article>
+
+        <!-- Sidebar -->
+        <aside>
+            <h3>📚 Categories</h3>
+            <ul class="category-list">
+                <li><a href="#">Artificial Intelligence (15)</a></li>
+                <li><a href="#">Web Development (23)</a></li>
+                <li><a href="#">Mobile Apps (12)</a></li>
+                <li><a href="#">Cloud Computing (8)</a></li>
+                <li><a href="#">Cybersecurity (10)</a></li>
+            </ul>
+        </aside>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Tech Insights Blog. All rights reserved.</p>
+        <p>Created with ❤️ by <strong>Jayvik Labs - Jaydip</strong></p>
+    </footer>
+</body>
+
+</html>

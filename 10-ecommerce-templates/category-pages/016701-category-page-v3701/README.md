@@ -1,0 +1,6 @@
+# Category Page V3701
+
+**Template #16701** | **Type:** E-Commerce | **Theme:** Tech Blue
+
+---
+**Jayvik Labs - Jaydip**

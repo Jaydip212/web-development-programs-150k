@@ -1,0 +1,8 @@
+# Layout Variant 748
+
+**Program #19748** | **Theme:** Forest | **By:** Jayvik Labs - Jaydip
+
+Modern web development example with premium design.
+
+---
+**Jayvik Labs - Jaydip**

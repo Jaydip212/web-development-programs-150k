@@ -1,0 +1,6 @@
+# Feed Layout V1275
+
+**Template #42275** | **Type:** Mobile Ui | **Theme:** Vibrant Orange
+
+---
+**Jayvik Labs - Jaydip**

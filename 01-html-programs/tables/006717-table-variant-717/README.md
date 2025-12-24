@@ -1,0 +1,8 @@
+# Table Variant 717
+
+**Program #6717** | **Theme:** Fire | **By:** Jayvik Labs - Jaydip
+
+Modern web development example with premium design.
+
+---
+**Jayvik Labs - Jaydip**

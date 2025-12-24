@@ -1,0 +1,8 @@
+# Tabs Component V2722
+
+**Program #47722** | **Theme:** Ocean Blue | **By:** Jayvik Labs - Jaydip
+
+Modern web development example with premium design.
+
+---
+**Jayvik Labs - Jaydip**

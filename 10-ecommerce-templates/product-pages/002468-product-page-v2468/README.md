@@ -1,0 +1,6 @@
+# Product Page V2468
+
+**Template #2468** | **Type:** E-Commerce | **Theme:** Bold Red
+
+---
+**Jayvik Labs - Jaydip**

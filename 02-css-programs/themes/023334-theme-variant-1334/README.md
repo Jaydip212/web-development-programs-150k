@@ -1,0 +1,8 @@
+# Theme Variant 1334
+
+**Program #23334** | **Theme:** Fresh Mint | **By:** Jayvik Labs - Jaydip
+
+Modern web development example with premium design.
+
+---
+**Jayvik Labs - Jaydip**

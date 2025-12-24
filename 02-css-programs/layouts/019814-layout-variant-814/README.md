@@ -1,0 +1,8 @@
+# Layout Variant 814
+
+**Program #19814** | **Theme:** Fresh Mint | **By:** Jayvik Labs - Jaydip
+
+Modern web development example with premium design.
+
+---
+**Jayvik Labs - Jaydip**

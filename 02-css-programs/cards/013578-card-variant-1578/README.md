@@ -1,0 +1,8 @@
+# Card Variant 1578
+
+**Program #13578** | **Theme:** Forest | **By:** Jayvik Labs - Jaydip
+
+Modern web development example with premium design.
+
+---
+**Jayvik Labs - Jaydip**

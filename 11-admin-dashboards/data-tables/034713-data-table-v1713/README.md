@@ -1,0 +1,6 @@
+# Data Table V1713
+
+**Template #34713** | **Type:** Dashboard | **Theme:** Premium Purple
+
+---
+**Jayvik Labs - Jaydip**

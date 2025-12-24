@@ -1,0 +1,6 @@
+# Marketing Email V250
+
+**Template #45250** | **Type:** Email | **Theme:** Bright Cyan
+
+---
+**Jayvik Labs - Jaydip**

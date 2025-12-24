@@ -1,0 +1,8 @@
+# Typography Variant 512
+
+**Program #21512** | **Theme:** Ocean Blue | **By:** Jayvik Labs - Jaydip
+
+Modern web development example with premium design.
+
+---
+**Jayvik Labs - Jaydip**

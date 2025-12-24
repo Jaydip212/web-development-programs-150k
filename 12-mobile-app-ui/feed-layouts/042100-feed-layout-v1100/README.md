@@ -1,0 +1,6 @@
+# Feed Layout V1100
+
+**Template #42100** | **Type:** Mobile Ui | **Theme:** Bright Cyan
+
+---
+**Jayvik Labs - Jaydip**

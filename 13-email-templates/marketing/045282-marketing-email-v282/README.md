@@ -1,0 +1,6 @@
+# Marketing Email V282
+
+**Template #45282** | **Type:** Email | **Theme:** Success Green
+
+---
+**Jayvik Labs - Jaydip**

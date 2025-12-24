@@ -1,0 +1,6 @@
+# Transactional Email V1143
+
+**Template #49143** | **Type:** Email | **Theme:** Premium Purple
+
+---
+**Jayvik Labs - Jaydip**

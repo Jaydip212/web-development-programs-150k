@@ -1,0 +1,6 @@
+# Shopping Cart V2201
+
+**Template #7201** | **Type:** E-Commerce | **Theme:** Tech Blue
+
+---
+**Jayvik Labs - Jaydip**

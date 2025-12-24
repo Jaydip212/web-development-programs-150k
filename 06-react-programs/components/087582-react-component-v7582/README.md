@@ -1,0 +1,6 @@
+# React Component V7582
+
+**Program #87582** | **Theme:** Ocean Blue | **By:** Jayvik Labs - Jaydip
+
+---
+**Jayvik Labs - Jaydip**

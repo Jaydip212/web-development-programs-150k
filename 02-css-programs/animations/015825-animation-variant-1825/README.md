@@ -1,0 +1,8 @@
+# Animation Variant 1825
+
+**Program #15825** | **Theme:** Pink Passion | **By:** Jayvik Labs - Jaydip
+
+Modern web development example with premium design.
+
+---
+**Jayvik Labs - Jaydip**

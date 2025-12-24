@@ -1,0 +1,6 @@
+# Welcome Email V323
+
+**Template #54323** | **Type:** Email | **Theme:** Premium Purple
+
+---
+**Jayvik Labs - Jaydip**

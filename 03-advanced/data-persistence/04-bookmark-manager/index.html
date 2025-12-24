@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bookmark Manager - Jayvik Labs</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .app-container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        }
+        h1 {
+            color: #1e3c72;
+            margin-bottom: 30px;
+        }
+        .data-display {
+            background: #f8f9fa;
+            padding: 30px;
+            border-radius: 15px;
+            min-height: 200px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            color: #666;
+            font-size: 14px;
+        }
+        footer strong { color: #1e3c72; }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <h1>Bookmark Manager</h1>
+        <div class="data-display">
+            <p style="text-align: center; color: #666;">Save and organize bookmarks</p>
+        </div>
+        <footer>
+            <p>Created by <strong>Jayvik Labs - Jaydip</strong></p>
+        </footer>
+    </div>
+    <script>
+        // LocalStorage example
+        localStorage.setItem('app', 'Bookmark Manager');
+        console.log('Data saved to localStorage');
+    </script>
+</body>
+</html>

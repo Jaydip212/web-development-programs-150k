@@ -1,0 +1,6 @@
+# Travel Blog V1708
+
+**Template #88708** | **Type:** Blog | **Theme:** Bold Red
+
+---
+**Jayvik Labs - Jaydip**

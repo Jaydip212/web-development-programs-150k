@@ -1,0 +1,6 @@
+# Promotional Email V228
+
+**Template #52228** | **Type:** Email | **Theme:** Bold Red
+
+---
+**Jayvik Labs - Jaydip**

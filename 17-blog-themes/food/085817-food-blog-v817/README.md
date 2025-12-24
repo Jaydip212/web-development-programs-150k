@@ -1,0 +1,6 @@
+# Food Blog V817
+
+**Template #85817** | **Type:** Blog | **Theme:** Professional Teal
+
+---
+**Jayvik Labs - Jaydip**

@@ -1,0 +1,6 @@
+# Shopping Cart V2642
+
+**Template #7642** | **Type:** E-Commerce | **Theme:** Success Green
+
+---
+**Jayvik Labs - Jaydip**

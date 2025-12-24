@@ -1,0 +1,6 @@
+# Category Page V3686
+
+**Template #16686** | **Type:** E-Commerce | **Theme:** Modern Pink
+
+---
+**Jayvik Labs - Jaydip**

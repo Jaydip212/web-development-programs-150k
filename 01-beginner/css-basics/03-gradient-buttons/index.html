@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gradient Buttons - Jayvik Labs</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Arial', sans-serif;
+            background: #0a0a0a;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 40px;
+        }
+        .container {
+            max-width: 800px;
+            text-align: center;
+        }
+        h1 {
+            color: white;
+            font-size: 48px;
+            margin-bottom: 50px;
+        }
+        .button-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+        .btn {
+            padding: 18px 40px;
+            border: none;
+            border-radius: 50px;
+            font-size: 18px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            color: white;
+        }
+        .btn:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(255, 255, 255, 0.3);
+        }
+        .btn-1 { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+        .btn-2 { background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); }
+        .btn-3 { background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); }
+        .btn-4 { background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); }
+        .btn-5 { background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); }
+        .btn-6 { background: linear-gradient(135deg, #30cfd0 0%, #330867 100%); }
+        .btn-7 { background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); color: #333; }
+        .btn-8 { background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); color: #333; }
+        .btn-9 { background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); color: #333; }
+        footer {
+            margin-top: 50px;
+            color: #666;
+            font-size: 14px;
+        }
+        footer strong { color: #667eea; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎨 Gradient Buttons</h1>
+        <div class="button-grid">
+            <button class="btn btn-1">Purple Dream</button>
+            <button class="btn btn-2">Pink Passion</button>
+            <button class="btn btn-3">Ocean Blue</button>
+            <button class="btn btn-4">Fresh Mint</button>
+            <button class="btn btn-5">Sunset Glow</button>
+            <button class="btn btn-6">Deep Sea</button>
+            <button class="btn btn-7">Soft Pastel</button>
+            <button class="btn btn-8">Rose Quartz</button>
+            <button class="btn btn-9">Peach Cream</button>
+        </div>
+        <footer>
+            <p>Created by <strong>Jayvik Labs - Jaydip</strong></p>
+        </footer>
+    </div>
+</body>
+</html>

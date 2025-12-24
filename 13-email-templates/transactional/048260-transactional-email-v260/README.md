@@ -1,0 +1,6 @@
+# Transactional Email V260
+
+**Template #48260** | **Type:** Email | **Theme:** Bright Cyan
+
+---
+**Jayvik Labs - Jaydip**

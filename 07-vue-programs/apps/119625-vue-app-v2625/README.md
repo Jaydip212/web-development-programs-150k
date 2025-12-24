@@ -1,0 +1,6 @@
+# Vue App V2625
+
+**Program #119625** | **Theme:** Pink Passion | **By:** Jayvik Labs - Jaydip
+
+---
+**Jayvik Labs - Jaydip**

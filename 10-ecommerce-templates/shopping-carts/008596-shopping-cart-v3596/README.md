@@ -1,0 +1,6 @@
+# Shopping Cart V3596
+
+**Template #8596** | **Type:** E-Commerce | **Theme:** Modern Pink
+
+---
+**Jayvik Labs - Jaydip**

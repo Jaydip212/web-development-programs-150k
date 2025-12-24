@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexbox Layout - Jayvik Labs</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Arial', sans-serif;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #667eea;
+            margin-bottom: 40px;
+            font-size: 48px;
+        }
+        .section {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        .section h2 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .flex-container {
+            display: flex;
+            gap: 15px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 10px;
+        }
+        .flex-item {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            text-align: center;
+            font-weight: bold;
+        }
+        .justify-start { justify-content: flex-start; }
+        .justify-center { justify-content: center; }
+        .justify-between { justify-content: space-between; }
+        .align-center { align-items: center; }
+        .flex-column { flex-direction: column; }
+        .flex-1 { flex: 1; }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            color: #666;
+        }
+        footer strong { color: #667eea; }
+    </style>
+</head>
+<body>
+    <h1>📦 Flexbox Layouts</h1>
+    
+    <div class="section">
+        <h2>Justify Content: Start</h2>
+        <div class="flex-container justify-start">
+            <div class="flex-item">1</div>
+            <div class="flex-item">2</div>
+            <div class="flex-item">3</div>
+        </div>
+    </div>
+    
+    <div class="section">
+        <h2>Justify Content: Center</h2>
+        <div class="flex-container justify-center">
+            <div class="flex-item">1</div>
+            <div class="flex-item">2</div>
+            <div class="flex-item">3</div>
+        </div>
+    </div>
+    
+    <div class="section">
+        <h2>Justify Content: Space Between</h2>
+        <div class="flex-container justify-between">
+            <div class="flex-item">1</div>
+            <div class="flex-item">2</div>
+            <div class="flex-item">3</div>
+        </div>
+    </div>
+    
+    <div class="section">
+        <h2>Flex Direction: Column</h2>
+        <div class="flex-container flex-column">
+            <div class="flex-item">1</div>
+            <div class="flex-item">2</div>
+            <div class="flex-item">3</div>
+        </div>
+    </div>
+    
+    <div class="section">
+        <h2>Flex: 1 (Equal Width)</h2>
+        <div class="flex-container">
+            <div class="flex-item flex-1">Flex 1</div>
+            <div class="flex-item flex-1">Flex 1</div>
+            <div class="flex-item flex-1">Flex 1</div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>Created by <strong>Jayvik Labs - Jaydip</strong></p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,8 @@
+# Blog Variant 80
+
+**Program #3580** | **Theme:** Gold | **By:** Jayvik Labs - Jaydip
+
+Modern web development example with premium design.
+
+---
+**Jayvik Labs - Jaydip**

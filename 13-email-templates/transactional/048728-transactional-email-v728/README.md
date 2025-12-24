@@ -1,0 +1,6 @@
+# Transactional Email V728
+
+**Template #48728** | **Type:** Email | **Theme:** Bold Red
+
+---
+**Jayvik Labs - Jaydip**

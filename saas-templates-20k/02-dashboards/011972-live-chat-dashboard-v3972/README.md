@@ -1,0 +1,15 @@
+# Live Chat Dashboard V3972
+
+**SaaS Template #11972** | **Type:** Live-Chat | **Theme:** Success Green
+
+## Features
+- Reporting Dashboard
+- 24/7 Support
+- Automation
+- Multi-user Access
+
+## Description
+Professional SaaS landing page template for live chat platforms.
+
+---
+**Created by Jayvik Labs - Jaydip**

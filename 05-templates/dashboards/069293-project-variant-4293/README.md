@@ -1,0 +1,8 @@
+# Project Variant 4293
+
+**Program #69293** | **Theme:** Sunset | **By:** Jayvik Labs - Jaydip
+
+Modern web development example with premium design.
+
+---
+**Jayvik Labs - Jaydip**

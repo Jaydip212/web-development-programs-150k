@@ -1,0 +1,8 @@
+# Animation Variant 2460
+
+**Program #16460** | **Theme:** Gold | **By:** Jayvik Labs - Jaydip
+
+Modern web development example with premium design.
+
+---
+**Jayvik Labs - Jaydip**

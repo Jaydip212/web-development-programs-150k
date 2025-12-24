@@ -1,0 +1,6 @@
+# Settings Panel V2803
+
+**Template #29803** | **Type:** Dashboard | **Theme:** Premium Purple
+
+---
+**Jayvik Labs - Jaydip**

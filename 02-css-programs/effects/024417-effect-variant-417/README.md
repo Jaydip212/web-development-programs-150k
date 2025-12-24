@@ -1,0 +1,8 @@
+# Effect Variant 417
+
+**Program #24417** | **Theme:** Fire | **By:** Jayvik Labs - Jaydip
+
+Modern web development example with premium design.
+
+---
+**Jayvik Labs - Jaydip**

@@ -1,0 +1,6 @@
+# Checkout Page V3225
+
+**Template #12225** | **Type:** E-Commerce | **Theme:** Vibrant Orange
+
+---
+**Jayvik Labs - Jaydip**

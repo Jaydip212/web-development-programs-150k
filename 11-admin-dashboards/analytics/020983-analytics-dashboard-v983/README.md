@@ -1,0 +1,6 @@
+# Analytics Dashboard V983
+
+**Template #20983** | **Type:** Dashboard | **Theme:** Premium Purple
+
+---
+**Jayvik Labs - Jaydip**

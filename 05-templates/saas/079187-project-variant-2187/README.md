@@ -1,0 +1,8 @@
+# Project Variant 2187
+
+**Program #79187** | **Theme:** Fire | **By:** Jayvik Labs - Jaydip
+
+Modern web development example with premium design.
+
+---
+**Jayvik Labs - Jaydip**

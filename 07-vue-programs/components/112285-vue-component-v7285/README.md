@@ -1,0 +1,6 @@
+# Vue Component V7285
+
+**Program #112285** | **Theme:** Pink Passion | **By:** Jayvik Labs - Jaydip
+
+---
+**Jayvik Labs - Jaydip**

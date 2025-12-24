@@ -1,0 +1,6 @@
+# Product Page V2526
+
+**Template #2526** | **Type:** E-Commerce | **Theme:** Modern Pink
+
+---
+**Jayvik Labs - Jaydip**

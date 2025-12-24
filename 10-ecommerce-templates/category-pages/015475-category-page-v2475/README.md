@@ -1,0 +1,6 @@
+# Category Page V2475
+
+**Template #15475** | **Type:** E-Commerce | **Theme:** Vibrant Orange
+
+---
+**Jayvik Labs - Jaydip**

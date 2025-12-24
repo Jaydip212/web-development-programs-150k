@@ -1,0 +1,6 @@
+# Checkout Page V1100
+
+**Template #10100** | **Type:** E-Commerce | **Theme:** Bright Cyan
+
+---
+**Jayvik Labs - Jaydip**

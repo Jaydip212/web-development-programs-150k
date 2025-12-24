@@ -1,0 +1,6 @@
+# Category Page V2703
+
+**Template #15703** | **Type:** E-Commerce | **Theme:** Premium Purple
+
+---
+**Jayvik Labs - Jaydip**
